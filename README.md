@@ -1,4 +1,4 @@
-# Multiplication-Quiz
+# Multiplication Quiz
 
 This console program asks the user random multiplication questions with operands in the range of 0 to 9. If the user answers correctly,
 the program generates a random message of encouragement. If the user answers incorrectly, the program generates a random message
